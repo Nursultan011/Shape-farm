@@ -1,0 +1,16 @@
+# Godot
+godot/.godot/
+godot/export/
+*.pck
+
+# React Native (см. также app/.gitignore)
+app/assets/game.pck
+app/assets/project.godot
+app/node_modules/
+app/ios/Pods/
+app/ios/build/
+app/android/build/
+app/android/app/build/
+app/android/.gradle/
+
+.DS_Store
